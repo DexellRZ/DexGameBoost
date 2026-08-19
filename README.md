@@ -50,21 +50,25 @@ See the [release history](https://github.com/DexellRZ/DexGameBoost/releases) for
 
 ## 📸 Screenshots
 
-### 🚀 loading display when opening the application 
+### 🚀 Loading Screen
+Initial loading screen when launching DexGameBoost.
 
-![Main Screen](Screenshot_20260819-173339.jpg)
+![Loading Screen](Screenshot_20260819-173339.jpg)
 
-### 🏠 main menu of the application 
+### 🏠 Main Menu
+The main interface of DexGameBoost.
 
-![Game Optimization](Screenshot_20260819-173350.jpg)
+![Main Menu](Screenshot_20260819-173350.jpg)
 
-### 🎮 view after adding game
+### 🎮 Game Added
+Game optimization interface after adding a game.
 
-![Gaming Mode](Screenshot_20260819-173438.jpg)
+![Game Added](Screenshot_20260819-173438.jpg)
 
 ### ⚡ Boost Now
+The optimization screen after activating Boost Now.
 
-![Settings](Screenshot_20260819-173441.jpg)
+![Boost Now](Screenshot_20260819-173441.jpg)
 
 ## 🛠️ Development
 
