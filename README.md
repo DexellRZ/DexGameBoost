@@ -22,7 +22,7 @@ Built with simplicity and performance in mind, DexGameBoost provides practical o
 
 Latest Release
 
-""Download DexGameBoost" (https://img.shields.io/github/v/release/DexellRZ/DexGameBoost?label=Download&style=for-the-badge)" (https://github.com/DexellRZ/DexGameBoost/releases/latest)
+[![Download DexGameBoost](https://img.shields.io/github/v/release/DexellRZ/DexGameBoost?label=Download&style=for-the-badge)](https://github.com/DexellRZ/DexGameBoost/releases/latest)
 
 Download the latest APK from the "Releases" (https://github.com/DexellRZ/DexGameBoost/releases) page.
 
