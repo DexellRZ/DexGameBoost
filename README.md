@@ -50,19 +50,19 @@ See the [release history](https://github.com/DexellRZ/DexGameBoost/releases) for
 
 ## 📸 Screenshots
 
-### 🏠 Main Screen
+### loading display when opening the application 
 
 ![Main Screen](Screenshot_20260819-173339.jpg)
 
-### ⚡ Game Optimization
+### 🏠 main menu of the application 
 
 ![Game Optimization](Screenshot_20260819-173350.jpg)
 
-### 🎮 Gaming Mode
+### 🎮 view after adding game
 
 ![Gaming Mode](Screenshot_20260819-173438.jpg)
 
-### ⚙️ Settings
+### ⚡ Boost Now
 
 ![Settings](Screenshot_20260819-173441.jpg)
 
