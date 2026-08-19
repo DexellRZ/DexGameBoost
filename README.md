@@ -48,6 +48,24 @@ Always download DexGameBoost from the official GitHub repository or its official
 
 See the [release history](https://github.com/DexellRZ/DexGameBoost/releases) for previous and upcoming versions.
 
+## 📸 Screenshots
+
+### 🏠 Main Screen
+
+![Main Screen](Screenshot_20260819-173339.jpg)
+
+### ⚡ Game Optimization
+
+![Game Optimization](Screenshot_20260819-173350.jpg)
+
+### 🎮 Gaming Mode
+
+![Gaming Mode](Screenshot_20260819-173438.jpg)
+
+### ⚙️ Settings
+
+![Settings](Screenshot_20260819-173441.jpg)
+
 ## 🛠️ Development
 
 DexGameBoost is currently under active development.
