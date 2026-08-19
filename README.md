@@ -50,7 +50,7 @@ See the [release history](https://github.com/DexellRZ/DexGameBoost/releases) for
 
 ## 📸 Screenshots
 
-### loading display when opening the application 
+### 🚀 loading display when opening the application 
 
 ![Main Screen](Screenshot_20260819-173339.jpg)
 
